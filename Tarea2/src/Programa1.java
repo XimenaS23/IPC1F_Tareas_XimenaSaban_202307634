@@ -26,7 +26,7 @@ public class Programa1 {
             return;
         }
 
-        // La cantidad de numeros que el usuario ingresará
+        // La cantidad de numeros que el usuario ingresara
         int cantidad = 5;
 
         // Arreglo de una dimension
